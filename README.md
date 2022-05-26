@@ -3,4 +3,4 @@ This github repository contanis a full report detailing the implemention of a DH
 <br />
 ![figure1](./figures/Figure1.png)
 <br />
-<sup align="center">Figure 1. Full connection diagram displaying all connected devices.</sup>
+<p align="center"><sup>Figure 1. Full connection diagram displaying all connected devices.</sup></p>
